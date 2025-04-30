@@ -15,6 +15,6 @@ def main():
 ```
 ## mult.py 결과
 ### pdm run
-![image](https://github.com/user-attachments/assets/8916cdf6-db28-4847-b183-1be50cb6622d)
+![image](https://github.com/user-attachments/assets/43798cfe-ab1f-411e-a347-9841c1dd9d8d)
 ### python
-![image](https://github.com/user-attachments/assets/22b03f79-326b-4507-99fb-e514518d9f48)
+![image](https://github.com/user-attachments/assets/e2474ff5-a7d3-4935-8370-2c6cc4be817e)
