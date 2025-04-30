@@ -1,5 +1,5 @@
 [project]
-name = "shipzo_mult"
+name = "shipzo_mult_hun"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
