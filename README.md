@@ -1,5 +1,5 @@
 ## pyproject.py
-![image](https://github.com/user-attachments/assets/ad1409fc-90be-4ee2-b520-dd7a2b80d2f1)
+![image](https://github.com/user-attachments/assets/ea66cb92-66bf-49f9-afe5-535c72004e4b)
 ## plus.py
 ```
 #곱셈
